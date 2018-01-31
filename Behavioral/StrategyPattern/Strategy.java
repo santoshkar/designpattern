@@ -1,4 +1,4 @@
-package designpattern.StrategyPattern;
+package designpattern.Behavioral.StrategyPattern;
 
 public interface Strategy {
    public int doOperation(int num1, int num2);
